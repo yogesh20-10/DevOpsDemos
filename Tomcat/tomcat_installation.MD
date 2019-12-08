@@ -9,7 +9,7 @@ Download tomcat packages from  https://tomcat.apache.org/download-80.cgi onto /o
 ```sh 
   # create tomcat directory
   cd /opt
-  wget http://mirrors.fibergrid.in/apache/tomcat/tomcat-8/v8.5.35/bin/apache-tomcat-8.5.35.tar.gz
+  wget http://www.us.apache.org/dist/tomcat/tomcat-9/v9.0.29/bin/apache-tomcat-9.0.29.tar.gz
   tar -xvzf /opt/apache-tomcat-8.5.35.tar.gz
 ```
 give executing permissions to startup.sh and shutdown.sh which are under bin. 
